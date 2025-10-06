@@ -1,5 +1,11 @@
+:root {
+ --main-color: #336699;
+ --accent-color: #f4b400;
+}
+
+
 h1 {
-    background:red;
+    background: var(--main-color);
     color:white;
 }
 
