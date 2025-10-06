@@ -2,3 +2,11 @@ h1 {
     background:red;
     color:white;
 }
+
+h2 {
+    display:inline-block;
+    height:200px;
+    width:200px;
+    background:orangered;
+    color:antiquewhite;
+}
