@@ -3,8 +3,10 @@ h1 {
     color:white;
 }
 
-h3 {
-    background:black;
-    color:white;
-    font-size:100px;
+h2 {
+    display:inline-block;
+    height:200px;
+    width:200px;
+    background:orangered;
+    color:antiquewhite;
 }
